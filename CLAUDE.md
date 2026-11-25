@@ -74,6 +74,7 @@ y empuja hacia la meta. El usuario publica y reporta.
 | **Historias** | Encuestas, "¿quién tiene la culpa?", adelanto del siguiente video, compartir el Reel nuevo. | IG + FB |
 | **Publicación fijada** | Presentación de Yami: quién es, de qué habla, que es IA. | FB + IG |
 
+**Imágenes de escenas (Yami/Tsuki): las genera ChatGPT** con los prompts de `contenido/prompts-chatgpt.txt`; Claude las revisa y les pone texto.
 Claude produce las imágenes (carruseles, frases, perfil, portada) en `assets/` a partir de las fotos de Yami,
 con los scripts de `herramientas/`. Los textos de cada pieza van en `contenido/`.
 
@@ -143,6 +144,7 @@ Avatar virtual con IA 🌙 Psicología oscura, anime y true crime. Yo te explico
 - `guia-arranque.md`: pasos para crear todo desde el teléfono.
 - `publicaciones.md`: tabla con todo lo subido + plantilla de reporte.
 - `calendario.md`: próximas dos semanas + banco de ideas.
+- `plan-contenido.md`: semana tipo de publicaciones normales (Expediente, Gemelas, Vida de Yami, Dato oscuro) y flujo con ChatGPT.
 - `assets/`: perfil, portada, stickers y carruseles listos para subir. (`assets/fotos/` = originales; **no se suben mientras el repo sea público**.)
 - `contenido/`: textos de cada pieza (descripciones, guiones en .txt, datos de los carruseles).
 - `herramientas/`: scripts de Claude para generar imágenes con la marca (`marca.py`, `perfil_portada.py`, `carrusel.py`, `stickers.py`).
@@ -165,4 +167,5 @@ Avatar virtual con IA 🌙 Psicología oscura, anime y true crime. Yo te explico
 |---|---|---|
 | 25-nov-2026 | Reels: 2 distintos por día (L/M/V, 1 pm y 8 pm), el mismo en FB e IG. | Decisión del usuario. |
 | 25-nov-2026 | Claude no pone voz: guion en .txt → voz en CapCut. Se quita ElevenLabs. | Decisión del usuario. |
+| 25-nov-2026 | Semana tipo de publicaciones normales; ChatGPT genera las escenas de las gemelas. | Más visibilidad entre Reels. |
 | 25-nov-2026 | Las reglas pasan a "lineamientos": se ajustan según resultados. | La biblia se adapta a lo que funcione. |
