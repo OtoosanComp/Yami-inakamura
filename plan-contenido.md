@@ -3,6 +3,12 @@
 > Los Reels van aparte (L/M/V). Esto es lo que llena el perfil **entre Reels** para que la gente conozca a Yami,
 > guarde, comente y regrese. Prompts listos para ChatGPT en `contenido/prompts-chatgpt.txt`.
 
+## Expedientes con NotebookLM (así se hizo el #01)
+1. Haces la presentación en NotebookLM (sale horizontal, en PDF) y la portada vertical en ChatGPT.
+2. Me mandas el PDF y la portada.
+3. Yo separo cada lámina, la paso a **vertical 1080×1350**, agrando los textos, quito la marca de NotebookLM
+   y cualquier "comparte/guarda" (engagement bait), y agrego el cierre "¿Tú qué hubieras hecho?".
+
 ## Cómo trabajamos (flujo)
 1. **Yo (Claude)** te digo qué toca cada día y te doy el prompt para la imagen.
 2. **ChatGPT** genera la imagen de Yami y/o Tsuki (él ya tiene el visual de las gemelas).
@@ -26,7 +32,7 @@ al personaje** (la gente sigue personas, no temas) y el Dato oscuro se **compart
 ## Semana del 7 al 13 de diciembre (primera semana normal)
 | Día | Qué | Imagen | Texto |
 |---|---|---|---|
-| **Mar 8** | Expediente #01: ¿Qué es un yandere? | ✅ Listo (`assets/carruseles/01-yandere/`) | ✅ `contenido/carrusel-01-yandere/texto.txt` |
+| **Mar 8** | Expediente #02 (tema por definir; se puede hacer con NotebookLM como el #01) | NotebookLM + portada ChatGPT → yo lo paso a vertical | Yo |
 | **Jue 10** | Gemelas: "Noche de School Days" | ChatGPT → prompt **G1** | Abajo |
 | **Sáb 12** | Vida de Yami: "Cosiendo mi chamarra" | ChatGPT → prompt **V1** | Abajo |
 | **Dom 13** | Dato oscuro #1: los celos | ChatGPT → prompt **D1** (fondo) + yo pongo el texto | Abajo |

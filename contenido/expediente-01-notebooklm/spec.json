@@ -1,0 +1,35 @@
+{
+  "portada": "contenido/expediente-01-notebooklm/portada-chatgpt.png",
+  "total": 7,
+  "laminas": [
+    {"img": "contenido/expediente-01-notebooklm/_paginas/hi-1.png", "piezas": [
+      [0.05,0.08,0.26,0.16,300],
+      [0.155,0.28,0.845,0.545,1010],
+      {"tipo":"caja","s":"Analizamos la línea entre el anime, los celos y el control psicológico.","ancho":860,"tam":36},
+      [0.34,0.83,0.66,0.94,470]]},
+    {"img": "contenido/expediente-01-notebooklm/_paginas/hi-2.png", "gap": 26, "piezas": [
+      [0.05,0.08,0.65,0.19,900],
+      [0.05,0.2,0.497,0.665,820],
+      [0.503,0.2,0.95,0.665,820],
+      {"tipo":"banner","s":"Una etiqueta de anime no explica por sí sola a una persona real.","ancho":1000,"cara":[0.098,0.691,0.1755,0.83]},
+      {"tipo":"texto","s":"Fuentes: APA · OMS","tam":24,"peso":"Medium","color":[190,160,225]}]},
+    {"img": "contenido/expediente-01-notebooklm/_paginas/hi-3.png", "piezas": [
+      [0.25,0.08,0.75,0.18,820],
+      [0.38,0.2,0.62,0.48,330],
+      {"tipo":"texto","s":"La diferencia clave no es cuánto siente alguien, sino qué hace con ese sentimiento.","tam":52,"ancho":1000},
+      {"tipo":"banner","s":"Los celos NO dan derecho a invadir la privacidad ni a controlar.","ancho":1000,"cara":[0.098,0.691,0.1755,0.83],"etiqueta":"YAMI TE LO DEJA CLARO"}]},
+    {"img": "contenido/expediente-01-notebooklm/_paginas/hi-4.png", "piezas": [
+      [0.19,0.055,0.81,0.16,960],
+      [0.16,0.165,0.84,0.825,1010],
+      {"tipo":"nota","s":"NOTA DEL SISTEMA: La violencia de pareja puede ser psicológica y controladora; no necesita dejar marcas físicas para ser real.","ancho":1000,"tam":30}]},
+    {"img": "contenido/expediente-01-notebooklm/_paginas/hi-5.png", "piezas": [
+      [0.16,0.075,0.84,0.17,1000],
+      [0.185,0.185,0.815,0.93,1040]]},
+    {"img": "contenido/expediente-01-notebooklm/_paginas/hi-6.png", "gap": 40, "piezas": [
+      [0.35,0.075,0.65,0.17,460],
+      {"tipo":"caja","s":"No hay que convertir las preferencias culturales en diagnósticos médicos, pero tampoco debemos romantizar el abuso y el control en nuestras relaciones reales.","ancho":980,"tam":36},
+      [0.245,0.52,0.755,0.79,760],
+      {"tipo":"texto","s":"¿Tú qué hubieras hecho?","tam":60,"peso":"ExtraBold","color":[240,110,50]},
+      {"tipo":"texto","s":"Contenido educativo y de divulgación, sin material gráfico.","tam":26,"peso":"Medium","color":[215,205,225]}]}
+  ]
+}

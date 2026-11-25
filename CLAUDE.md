@@ -147,13 +147,14 @@ Avatar virtual con IA 🌙 Psicología oscura, anime y true crime. Yo te explico
 - `plan-contenido.md`: semana tipo de publicaciones normales (Expediente, Gemelas, Vida de Yami, Dato oscuro) y flujo con ChatGPT.
 - `assets/`: perfil, portada, stickers y carruseles listos para subir. (`assets/fotos/` = originales; **no se suben mientras el repo sea público**.)
 - `contenido/`: textos de cada pieza (descripciones, guiones en .txt, datos de los carruseles).
-- `herramientas/`: scripts de Claude para generar imágenes con la marca (`marca.py`, `perfil_portada.py`, `carrusel.py`, `stickers.py`).
+- `herramientas/`: scripts de Claude para generar imágenes con la marca (`marca.py`, `perfil_portada.py`, `carrusel.py`, `stickers.py`, `pdf_a_carrusel.py` = PDF horizontal de NotebookLM → carrusel vertical).
 
 ---
 
 ## Estado (actualizado 25-nov-2026)
 - **Cuentas:** ninguna creada todavía. El usuario va a empezar con el paso 1.
-- **Listo para subir:** foto de perfil, portada de Facebook, 10 stickers para historias, carrusel #01 (yandere) con su texto.
+- **Primera publicación (sin Reels esa semana, por única vez):** Expediente #01 "El síndrome yandere" (NotebookLM + portada ChatGPT) → `assets/carruseles/expediente-01/` + `contenido/expediente-01-notebooklm/texto.txt`.
+- **Listo para subir:** foto de perfil, portada de Facebook, 10 stickers para historias. (Mi versión anterior del carrusel quedó en `assets/carruseles/_alternativas/`.)
 - **Videos listos (otro repo):** p0 presentación (41 s), r1 Kotonoha "no nació yandere" (55 s), r4 yandere más popular (48 s).
 - **En proceso (otro repo):** r2 Nice boat, r3 Kotonoha vs Yuno; esquema del primer largo (Kotonoha).
 - **Ideas de video:** yanderes de la vieja escuela, ¿Mikasa es yandere?, Makoto el verdadero villano de School Days.
@@ -168,4 +169,6 @@ Avatar virtual con IA 🌙 Psicología oscura, anime y true crime. Yo te explico
 | 25-nov-2026 | Reels: 2 distintos por día (L/M/V, 1 pm y 8 pm), el mismo en FB e IG. | Decisión del usuario. |
 | 25-nov-2026 | Claude no pone voz: guion en .txt → voz en CapCut. Se quita ElevenLabs. | Decisión del usuario. |
 | 25-nov-2026 | Semana tipo de publicaciones normales; ChatGPT genera las escenas de las gemelas. | Más visibilidad entre Reels. |
+| 25-nov-2026 | La primera semana es solo contenido normal (sin Reels); arranca con Expediente #01 de NotebookLM. Los Reels empiezan la semana siguiente con p0. | Decisión del usuario. |
+| 25-nov-2026 | Expedientes: se hacen en NotebookLM (horizontal) y Claude los pasa a vertical. | Flujo del usuario. |
 | 25-nov-2026 | Las reglas pasan a "lineamientos": se ajustan según resultados. | La biblia se adapta a lo que funcione. |

@@ -1,3 +1,4 @@
 # Fotos originales: no subir mientras el repo sea público
 assets/fotos/
 __pycache__/
+contenido/*/_paginas/

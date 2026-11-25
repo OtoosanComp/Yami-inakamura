@@ -8,21 +8,21 @@
 - Subir foto de perfil y portada (ya están en `assets/perfil/` y `assets/portada/`).
 - Completar perfiles. **No publicar todavía.**
 
-## Semana 1 · 30 nov al 6 dic · Cuenta nueva (poco)
+## Semana 1 · en cuanto la cuenta esté lista · **Solo contenido normal (sin Reels, por única vez)**
 | Día | Qué | Dónde |
 |---|---|---|
-| Lun 30 | **p0 presentación** (Reel) → fijar | FB + IG · 1 pm |
-| Jue 3 | **r1** Kotonoha "no nació yandere" (Reel) | FB + IG · 1 pm |
-| Sáb 5 | Historia: encuesta "¿Kotonoha es víctima o villana?" (sticker `pensando_mano`) | IG + FB |
+| Día 1 | **Expediente #01** "El síndrome yandere" (carrusel NotebookLM + portada ChatGPT) ✅ | FB + IG · 1 pm |
+| Día 3–4 | Gemelas "Noche de School Days" (prompt G1) | FB + IG |
+| Diario | Historias con stickers: encuesta "¿Kotonoha es víctima o villana?" | IG + FB |
 
 ## Semana 2 · 7 al 13 dic · Ritmo normal (2 Reels por día L/M/V)
 | Día | 1:00 pm | 8:00 pm |
 |---|---|---|
-| Lun 7 | **r4** yandere más popular ✅ | **r2** Nice boat ⏳ |
-| Mar 8 | Carrusel #01 yandere ✅ (`contenido/carrusel-01-yandere/`) | — |
-| Mié 9 | **r3** Kotonoha vs Yuno ⏳ | **¿Mikasa es yandere?** ❌ por producir |
+| Lun 7 | **p0 presentación** ✅ (fijar) | **r1** Kotonoha ✅ |
+| Mar 8 | Expediente #02 (por definir) | — |
+| Mié 9 | **r4** yandere más popular ✅ | **r2** Nice boat ⏳ |
 | Jue 10 | Imagen con frase / pregunta en FB | — |
-| Vie 11 | **Makoto, el verdadero villano** ❌ por producir | **Yanderes de la vieja escuela** ❌ por producir |
+| Vie 11 | **r3** Kotonoha vs Yuno ⏳ | **¿Mikasa es yandere?** ❌ por producir |
 | Sáb 12 | Historia: "¿Kotonoha o Yuno?" (encuesta) | — |
 | Dom 13 | Largo de Kotonoha ⏳ | YouTube 7 pm |
 
