@@ -5,26 +5,28 @@
 
 ## Semana 0 · 25 al 29 de noviembre · Arranque
 - Crear Gmail, página de Facebook e Instagram (`guia-arranque.md`).
-- Claude: foto de perfil, portada y plantilla de carrusel con las fotos de Yami.
+- Subir foto de perfil y portada (ya están en `assets/perfil/` y `assets/portada/`).
 - Completar perfiles. **No publicar todavía.**
 
 ## Semana 1 · 30 nov al 6 dic · Cuenta nueva (poco)
 | Día | Qué | Dónde |
 |---|---|---|
-| Lun 30 | **p0 presentación** (Reel) → fijar | FB 1 pm · IG 8 pm |
-| Jue 3 | **r1** Kotonoha "no nació yandere" (Reel) | FB 1 pm · IG 8 pm |
-| Sáb 5 | Historia: encuesta "¿Kotonoha es víctima o villana?" | IG + FB |
+| Lun 30 | **p0 presentación** (Reel) → fijar | FB + IG · 1 pm |
+| Jue 3 | **r1** Kotonoha "no nació yandere" (Reel) | FB + IG · 1 pm |
+| Sáb 5 | Historia: encuesta "¿Kotonoha es víctima o villana?" (sticker `pensando_mano`) | IG + FB |
 
-## Semana 2 · 7 al 13 dic · Ritmo normal
-| Día | Qué | Dónde |
+## Semana 2 · 7 al 13 dic · Ritmo normal (2 Reels por día L/M/V)
+| Día | 1:00 pm | 8:00 pm |
 |---|---|---|
-| Lun 7 | **r4** yandere más popular (Reel) | FB 1 pm · IG 8 pm |
-| Mar 8 | Carrusel "Expediente: ¿qué es un yandere según la psicología?" | IG + FB |
-| Mié 9 | **r2** Nice boat (si ya está listo) | FB 1 pm · IG 8 pm |
-| Jue 10 | Imagen con frase: "No tengas miedo... yo te explico por qué pasó." | FB + IG |
-| Vie 11 | **r3** Kotonoha vs Yuno (si ya está listo) | FB 1 pm · IG 8 pm |
-| Sáb 12 | Historia: "¿Kotonoha o Yuno?" (encuesta) | IG + FB |
-| Dom 13 | Primer largo de Kotonoha (si ya está listo) | YouTube 7 pm |
+| Lun 7 | **r4** yandere más popular ✅ | **r2** Nice boat ⏳ |
+| Mar 8 | Carrusel #01 yandere ✅ (`contenido/carrusel-01-yandere/`) | — |
+| Mié 9 | **r3** Kotonoha vs Yuno ⏳ | **¿Mikasa es yandere?** ❌ por producir |
+| Jue 10 | Imagen con frase / pregunta en FB | — |
+| Vie 11 | **Makoto, el verdadero villano** ❌ por producir | **Yanderes de la vieja escuela** ❌ por producir |
+| Sáb 12 | Historia: "¿Kotonoha o Yuno?" (encuesta) | — |
+| Dom 13 | Largo de Kotonoha ⏳ | YouTube 7 pm |
+
+✅ listo · ⏳ en proceso en el otro repo · ❌ falta producir (Claude entrega guion en .txt → voz en CapCut)
 
 ## Banco de ideas (publicaciones de apoyo)
 - Carrusel: "5 señales de un apego obsesivo (explicadas con anime)".

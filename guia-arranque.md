@@ -14,7 +14,7 @@
 1. App de Facebook (con **tu** perfil real) → Menú ☰ → **Páginas** → **Crear**.
 2. Nombre: **Yami I. Nakamura** · Categoría: **Creador digital**.
 3. Presentación (bio): la de Facebook que está en `CLAUDE.md`.
-4. Foto de perfil y portada: **espera a que te las mande** (las hago con tus fotos). Puedes dejarla vacía mientras.
+4. Foto de perfil: `assets/perfil/yami_perfil.jpg` · Portada: `assets/portada/yami_portada_facebook.jpg`.
 5. En la página: Configuración → agrega el correo de Yami como contacto (opcional).
 
 ## 3. Instagram
@@ -22,7 +22,7 @@
 2. Regístrala con el **correo de Yami** (no con tu número).
 3. Usuario: el que elijas en `cuentas.md`. Nombre: **Yami I. Nakamura**.
 4. Configuración → **Tipo de cuenta y herramientas** → Cambiar a cuenta profesional → **Creador** → categoría "Creador digital".
-5. Bio: la de Instagram que está en `CLAUDE.md`.
+5. Bio: la de Instagram que está en `CLAUDE.md`. Foto: `assets/perfil/yami_perfil.jpg`.
 
 ## 4. Vincular Instagram con la página
 1. En Instagram: Configuración → **Centro de cuentas** → Agregar cuentas → agrega tu Facebook.

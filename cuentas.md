@@ -23,12 +23,12 @@
 **Imagen**
 - Fotos de Yami: **las manda el usuario** ✅
 - Foto de perfil: Yami anime / Yami realista / otra:
-- ¿Va a aparecer Tsuki en las redes? (sí/no/más adelante):
+- ¿Va a aparecer Tsuki en las redes? (sí/no/más adelante): (hay una foto juntas, pero la pose de Yami no sirve)
 
 **Trabajo**
 - ¿Cuánto tiempo al día puedes dedicarle a publicar y responder?:
 - ¿Quieres que te escriba las respuestas a comentarios? (sí/no):
 - ¿Usarás Meta Business Suite para programar? (sí/no/no sé qué es):
-- ¿Plan de pago de ElevenLabs? (sí / no / pendiente):
-- Horario de Reels: ¿el **mismo** Reel va a Facebook 1 pm e Instagram 8 pm, o son **dos Reels distintos** al día?:
+- Voz: la hace el usuario en CapCut con el guion .txt ✅
+- Horario de Reels: 2 distintos por día (1 pm y 8 pm), el mismo en FB e IG ✅
 - Algo más que deba saber:

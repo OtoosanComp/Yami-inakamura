@@ -1,0 +1,12 @@
+{
+  "etiqueta": "EXPEDIENTE #01",
+  "laminas": [
+    {"tipo": "portada", "titulo": "¿Qué es un yandere según la psicología?", "sub": "Lo que el anime exagera… y lo que sí es real.", "yami": "pensando"},
+    {"tipo": "texto", "titulo": "Primero: no es un diagnóstico", "cuerpo": "\"Yandere\" viene de yanderu (enfermarse) y deredere (enamorado). Es un arquetipo del anime, no un término clínico. Pero los comportamientos detrás sí se estudian.", "yami": "neutral"},
+    {"tipo": "texto", "titulo": "1 · Apego ansioso", "cuerpo": "Un miedo enorme a ser abandonado. Necesita comprobar todo el tiempo que la otra persona sigue ahí… y cualquier silencio se siente como amenaza.", "yami": "sorpresa"},
+    {"tipo": "texto", "titulo": "2 · Idealización", "cuerpo": "Ve a la otra persona como perfecta y como su única razón de ser. Cuando la realidad no encaja con esa imagen, la frustración explota.", "yami": "pensando"},
+    {"tipo": "texto", "titulo": "3 · Celos y control", "cuerpo": "Revisar el celular, vigilar, alejar a los amigos. En la vida real eso no es \"amor intenso\": es una señal de alerta de violencia en la pareja.", "yami": "puchero"},
+    {"tipo": "texto", "titulo": "¿Por qué nos atrapa?", "cuerpo": "La ficción nos deja mirar el miedo desde un lugar seguro. Fuera de la pantalla, el control nunca es romántico.", "yami": "risa"},
+    {"tipo": "cierre", "titulo": "¿Tú qué hubieras hecho?", "cuerpo": "No tengas miedo… yo te explico por qué pasó.", "yami": "sonrisa", "nota": "Contenido educativo y de divulgación, sin material gráfico."}
+  ]
+}

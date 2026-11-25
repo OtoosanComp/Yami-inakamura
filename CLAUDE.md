@@ -1,8 +1,11 @@
-# Yami I. Nakamura · Redes
+# Yami I. Nakamura · Redes — La biblia
+
+> **Este archivo es nuestra biblia.** Lo seguimos, pero no es ley fija: se cambia cuando los resultados digan
+> qué funciona y qué no. Cada cambio se anota al final en "Cambios a la biblia".
 
 ## Qué es este repo
-Repo y chat **exclusivos para las redes de Yami I. Nakamura**: crear y llevar la página de Facebook y el Instagram,
-el calendario, los textos e imágenes de cada publicación y el seguimiento de resultados.
+Repo y chat **exclusivos para las redes de Yami I. Nakamura**: llevar la página de Facebook y el Instagram,
+**comparar resultados y decirle al usuario qué subir**: calendario, textos, imágenes y seguimiento.
 **Aquí NO se producen videos.** Los videos se hacen en otro repo (`OtoosanComp/INakamura`, rama `proyecto-meta`),
 y el usuario reporta aquí lo que sube (ver `publicaciones.md`).
 
@@ -43,8 +46,8 @@ y empuja hacia la meta. El usuario publica y reporta.
 | YouTube | Canal **Otoosan Tales** (ya existe) | Video largo del domingo. Se enlaza desde la bio de Yami. |
 | TikTok | **Otoosan Tales** (ya existe) | Se enlaza desde la bio de Yami. |
 
-## Reglas para no desmonetizar
-**[Meta]** = regla o riesgo real de Meta · **[Nuestra]** = regla de la casa (buena práctica, no obligatoria).
+## Lineamientos para no desmonetizar
+**[Meta]** = regla o riesgo real de Meta · **[Nuestra]** = costumbre de la casa (se ajusta según resultados).
 
 1. **[Meta]** Etiqueta de IA ("Información de IA") activada en cada publicación con Yami: Reels, carruseles e imágenes.
 2. **[Nuestra]** En la descripción: "Contenido educativo y de divulgación, sin material gráfico." y "Avatar virtual con IA."
@@ -57,7 +60,8 @@ y empuja hacia la meta. El usuario publica y reporta.
 7. **[Meta]** Música: solo la biblioteca de Meta o música libre con licencia. Música con derechos = video silenciado o sin monetización.
 8. **[Nuestra]** Reels de 10 a 60 s.
 9. **[Meta]** Content Monetization de Facebook es **por invitación**: se pide desde el Panel profesional.
-10. **Voz:** el plan gratis de ElevenLabs **no permite uso comercial**. Antes de pedir monetización, la voz debe venir de un plan de pago.
+10. **Voz:** Claude **no pone voz**. Entrega el guion en `.txt` y el usuario genera la voz en **CapCut**.
+    Antes de monetizar, revisar que la voz elegida en CapCut permita uso comercial.
 11. Las políticas cambian: si algo es decisivo, verificar la página oficial de Meta.
 
 ## Tipos de publicación (para traer visibilidad además de los Reels)
@@ -70,10 +74,24 @@ y empuja hacia la meta. El usuario publica y reporta.
 | **Historias** | Encuestas, "¿quién tiene la culpa?", adelanto del siguiente video, compartir el Reel nuevo. | IG + FB |
 | **Publicación fijada** | Presentación de Yami: quién es, de qué habla, que es IA. | FB + IG |
 
-Claude produce las imágenes (carruseles, frases, perfil, portada) en `assets/` a partir de las fotos de Yami.
+Claude produce las imágenes (carruseles, frases, perfil, portada) en `assets/` a partir de las fotos de Yami,
+con los scripts de `herramientas/`. Los textos de cada pieza van en `contenido/`.
+
+## Fotos de Yami: cuáles sirven
+| Foto | ¿Para redes? | Motivo |
+|---|---|---|
+| Hoja de expresiones (uniforme, fondo gris) | ✅ Sí, la base de todo | Limpia, sin pose sugerente. De aquí salen perfil, portada y carruseles. |
+| Hoja de stickers (12 caritas) | ✅ Sí, **menos 2** | El **cuchillo con sangre** y el **libro "School Days" manchado** rompen la regla de sangre/armas. Recortadas y separadas en `assets/stickers/`. |
+| Telas aéreas (gimnasio) | ⚠️ Solo historias, con cuidado | Es deporte, pero mucha piel; mejor no en publicaciones con monetización. |
+| Selfie con arnés negro/morado | ❌ No | Ligas, lengua de fuera: Meta lo toma como sugerente. |
+| Selfie con Tsuki (baño rosa) | ❌ No así | La pose de Yami es sugerente. **Tsuki sí queda bien**: pedir otra toma juntas sin esa pose. |
+| Selfie uniforme corto (escote) | ❌ No | Sugerente. |
+| Cosplay marinero rojo | ❌ No | Falda muy corta + lengua; además es traje de una franquicia conocida. |
+Para la estética de la biblia sirven mejor: chamarra negra con morado, ropa normal, poses de "pensar/explicar".
 
 ## Calendario interno (nunca se anuncia en los videos; si un día no se puede, no pasa nada)
-- **Reels:** lunes, miércoles y viernes · Facebook 1:00 pm e Instagram 8:00 pm (CDMX). *(Pendiente de confirmar.)*
+- **Reels:** lunes, miércoles y viernes · **dos Reels distintos por día**, 1:00 pm y 8:00 pm (CDMX).
+  Cada Reel va **igual a Facebook e Instagram** a la misma hora. (6 Reels por semana.)
 - **Apoyo:** martes carrusel · jueves frase o pregunta · sábado historia/encuesta.
 - **Largo:** domingo 7:00 pm (CDMX) en YouTube (Otoosan Tales).
 - **Cuenta nueva:** la primera semana se publica poco (1–2 cosas) para que Meta no la restrinja.
@@ -93,6 +111,7 @@ Claude produce las imágenes (carruseles, frases, perfil, portada) en `assets/` 
 - Crear cuentas, publicar ni programar (no hay conexión con Meta). El usuario publica; Claude lo guía y deja todo listo.
 - Ver estadísticas: el usuario manda capturas o números (reporte en `publicaciones.md`).
 - Ver el repo de videos (`INakamura`) salvo que el usuario dé permiso de conectarlo en modo lectura.
+- Poner voz: entrega guion en `.txt`; la voz la hace el usuario en CapCut.
 
 ## Pasos de arranque (checklist)
 - [ ] 1. Gmail exclusivo para Yami + verificación en dos pasos.
@@ -124,15 +143,26 @@ Avatar virtual con IA 🌙 Psicología oscura, anime y true crime. Yo te explico
 - `guia-arranque.md`: pasos para crear todo desde el teléfono.
 - `publicaciones.md`: tabla con todo lo subido + plantilla de reporte.
 - `calendario.md`: próximas dos semanas + banco de ideas.
-- `assets/`: fotos de Yami, perfil, portada, carruseles y plantillas.
+- `assets/`: perfil, portada, stickers y carruseles listos para subir. (`assets/fotos/` = originales; **no se suben mientras el repo sea público**.)
+- `contenido/`: textos de cada pieza (descripciones, guiones en .txt, datos de los carruseles).
+- `herramientas/`: scripts de Claude para generar imágenes con la marca (`marca.py`, `perfil_portada.py`, `carrusel.py`, `stickers.py`).
 
 ---
 
 ## Estado (actualizado 25-nov-2026)
 - **Cuentas:** ninguna creada todavía. El usuario va a empezar con el paso 1.
-- **Imágenes:** el usuario va a mandar las fotos de Yami → con eso se hacen foto de perfil, portada y plantillas.
-- **Videos listos para subir:** p0 presentación (41 s), r1 Kotonoha "no nació yandere" (55 s), r4 yandere más popular (48 s).
+- **Listo para subir:** foto de perfil, portada de Facebook, 10 stickers para historias, carrusel #01 (yandere) con su texto.
+- **Videos listos (otro repo):** p0 presentación (41 s), r1 Kotonoha "no nació yandere" (55 s), r4 yandere más popular (48 s).
 - **En proceso (otro repo):** r2 Nice boat, r3 Kotonoha vs Yuno; esquema del primer largo (Kotonoha).
 - **Ideas de video:** yanderes de la vieja escuela, ¿Mikasa es yandere?, Makoto el verdadero villano de School Days.
-- **Pendiente del usuario:** llenar `cuentas.md`, mandar fotos, confirmar horario de Reels, confirmar plan de ElevenLabs.
-- **Siguiente paso de Claude:** con las fotos → foto de perfil, portada de Facebook y plantilla de carrusel.
+- **Ojo producción:** con 6 Reels por semana, para la semana del 7-dic faltan 3 Reels nuevos (ver `calendario.md`).
+- **⚠️ El repo es PÚBLICO:** pedir al usuario que lo haga privado antes de subir fotos originales o datos de cuentas.
+- **Pendiente del usuario:** hacer privado el repo, crear cuentas, elegir usuario de Instagram, enlaces de YouTube/TikTok, foto de Tsuki sin pose sugerente.
+- **Siguiente paso de Claude:** texto de p0 y r1, guiones en .txt para los Reels que falten, imagen con frase del jueves.
+
+## Cambios a la biblia
+| Fecha | Cambio | Por qué |
+|---|---|---|
+| 25-nov-2026 | Reels: 2 distintos por día (L/M/V, 1 pm y 8 pm), el mismo en FB e IG. | Decisión del usuario. |
+| 25-nov-2026 | Claude no pone voz: guion en .txt → voz en CapCut. Se quita ElevenLabs. | Decisión del usuario. |
+| 25-nov-2026 | Las reglas pasan a "lineamientos": se ajustan según resultados. | La biblia se adapta a lo que funcione. |
