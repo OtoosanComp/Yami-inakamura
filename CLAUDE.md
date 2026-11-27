@@ -94,7 +94,14 @@ Para la estética de la biblia sirven mejor: chamarra negra con morado, ropa nor
 - **Reels:** lunes, miércoles y viernes · **dos Reels distintos por día**, 1:00 pm y 8:00 pm (CDMX).
   Cada Reel va **igual a Facebook e Instagram** a la misma hora. (6 Reels por semana.)
 - **Apoyo:** martes carrusel · jueves frase o pregunta · sábado historia/encuesta.
-- **Largo:** domingo 7:00 pm (CDMX) en YouTube (Otoosan Tales).
+- **Largo:** domingo 7:00 pm (CDMX) en YouTube (Otoosan Tales). Si el tema es de moda, se adelanta (ej. GTA VI: viernes 6 pm).
+- **Dónde va cada cosa del largo:**
+  | Plataforma | Qué se sube |
+  |---|---|
+  | YouTube (Otoosan Tales) | Video largo completo (casa principal). |
+  | Facebook (página de Yami) | **Video largo completo nativo** (no enlace), 1 día después. Suma minutos para Content Monetization. |
+  | TikTok (Otoosan Tales) | **2–3 recortes verticales de 1 a 3 min** (los de +1 min cuentan para el programa de recompensas). No el largo completo. |
+  | Instagram (Yami) | **1–2 Reels de 30–60 s** con lo más fuerte del video. |
 - **Cuenta nueva:** la primera semana se publica poco (1–2 cosas) para que Meta no la restrinja.
 - Detalle de fechas en `calendario.md`.
 
@@ -171,4 +178,5 @@ Avatar virtual con IA 🌙 Psicología oscura, anime y true crime. Yo te explico
 | 25-nov-2026 | Semana tipo de publicaciones normales; ChatGPT genera las escenas de las gemelas. | Más visibilidad entre Reels. |
 | 25-nov-2026 | La primera semana es solo contenido normal (sin Reels); arranca con Expediente #01 de NotebookLM. Los Reels empiezan la semana siguiente con p0. | Decisión del usuario. |
 | 25-nov-2026 | Expedientes: se hacen en NotebookLM (horizontal) y Claude los pasa a vertical. | Flujo del usuario. |
+| 27-nov-2026 | Largo: completo en YouTube y Facebook; recortes en TikTok e Instagram. Largo de GTA VI adelantado a viernes 6 pm por ser tema de moda. | Aprovechar tendencia y sumar minutos en FB. |
 | 25-nov-2026 | Las reglas pasan a "lineamientos": se ajustan según resultados. | La biblia se adapta a lo que funcione. |
